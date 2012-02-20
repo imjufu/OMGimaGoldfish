@@ -1,3 +1,8 @@
 > OMG, I'm a __Goldfish Todo list__.
 
 It's a simple project to play with _Photon_ :)
+
+    $ cd /path/to/OMGimaGoldfish
+    $ hnu server start
+    $ m2sh load -config mongrel2/conf/myproject-mongrel2.conf
+    $ m2sh start -host localhost
