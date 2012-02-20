@@ -4,7 +4,12 @@ It's a simple project to play with _Photon_ :)
 
 http://www.photon-project.com/
 
+Launch server 
+
     $ cd /path/to/OMGimaGoldfish
     $ hnu server start
     $ m2sh load -config mongrel2/conf/myproject-mongrel2.conf
     $ m2sh start -host localhost
+    
+It works :>
+http://omgimagoldfish.local:6767/demo/
