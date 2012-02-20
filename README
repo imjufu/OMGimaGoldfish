@@ -2,6 +2,8 @@
 
 It's a simple project to play with _Photon_ :)
 
+http://www.photon-project.com/
+
     $ cd /path/to/OMGimaGoldfish
     $ hnu server start
     $ m2sh load -config mongrel2/conf/myproject-mongrel2.conf
