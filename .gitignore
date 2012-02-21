@@ -7,3 +7,7 @@
 .buildpath
 .project
 .settings
+
+# System files
+*.swp
+*~
