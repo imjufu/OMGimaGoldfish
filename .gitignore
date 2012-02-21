@@ -1,3 +1,8 @@
+# Config, logs, run
+*.sqlite
+*.log
+*.pid
+
 # IDE files
 .buildpath
 .project
